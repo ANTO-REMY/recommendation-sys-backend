@@ -30,10 +30,6 @@ This backend is ideal for any platform that wants to provide personalized recomm
 
 Given a user ID, the API analyzes the user's past ratings/interactions and returns a list of recommended item IDs that the user has not yet interacted with, ranked by predicted relevance.
 
-## How to Run the App
-
-```sh
-& "C:/Users/X 1 YOGA/AppData/Local/Programs/Python/Python313/python.exe" -m app.main
 ```
 The server will start at `http://127.0.0.1:5001/` by default.
 
