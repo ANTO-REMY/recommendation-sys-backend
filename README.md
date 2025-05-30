@@ -35,17 +35,19 @@ The server will start at `http://127.0.0.1:5001/` by default.
 
 ### API Endpoint
 
-- **Endpoint:** `/recommend`
-- **Method:** `GET`
-- **Query Parameters:**
+- Endpoint: `/recommend`
+- Method: `GET`
+- Query Parameters:
   - `user_id` (required): The user ID to get recommendations for.
 
-**Example:**
+Example:
+
+```
 ```
 GET http://127.0.0.1:5001/recommend?user_id=1
 ```
-
-**Response:**
+```
+Response:
 ```json
 {
   "user_id": 1,
