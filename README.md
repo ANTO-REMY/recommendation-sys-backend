@@ -1,5 +1,5 @@
 
-# AI-Powered Recommendation System
+# Algorithmic(ML) Recommendation System
 
 This project is a backend service that provides personalized item recommendations to users based on their past interactions. It is built using Python, Flask, Pandas, NumPy, and scikit-learn, and implements collaborative filtering with cosine similarity to generate recommendations.
 
