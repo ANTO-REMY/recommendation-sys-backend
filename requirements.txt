@@ -1,0 +1,5 @@
+# Python dependencies for the recommendation system
+fastapi
+uvicorn
+pandas
+scikit-learn
